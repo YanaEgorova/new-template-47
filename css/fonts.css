@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Mali';
+    src: url('../fonts/Mali-Bold.eot');
+    src: url('../fonts/Mali-Bold.eot') format('embedded-opentype'),
+        url('../fonts/Mali-Bold.woff2') format('woff2'),
+        url('../fonts/Mali-Bold.woff') format('woff'),
+        url('../fonts/Mali-Bold.ttf') format('truetype'),
+        url('../fonts/Mali-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Khand';
+    src: url('../fonts/Khand-Light.eot');
+    src: url('../fonts/Khand-Light.eot') format('embedded-opentype'),
+        url('../fonts/Khand-Light.woff2') format('woff2'),
+        url('../fonts/Khand-Light.woff') format('woff'),
+        url('../fonts/Khand-Light.ttf') format('truetype'),
+        url('../fonts/Khand-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Khand Bold';
+    src: url('../fonts/Khand-SemiBold.eot');
+    src: url('../fonts/Khand-SemiBold.eot') format('embedded-opentype'),
+        url('../fonts/Khand-SemiBold.woff2') format('woff2'),
+        url('../fonts/Khand-SemiBold.woff') format('woff'),
+        url('../fonts/Khand-SemiBold.ttf') format('truetype'),
+        url('../fonts/Khand-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+

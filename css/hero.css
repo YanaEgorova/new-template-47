@@ -1,0 +1,48 @@
+.hero__wrapper {
+  overflow: hidden;
+}
+.hero {
+    padding: 5rem 0 15rem;
+    text-align: center;
+}
+.hero .img {
+    max-width: 100%;
+    position: relative;
+}
+.img-box, .hero .title {
+    position: relative;
+}
+.hero .title {
+    left: 50%;
+    top: 20%;
+    position: absolute;
+    width: 100%;
+    transform: translate(-50%, 0);
+}
+/* .img-box::before {
+    position: absolute;
+    right: -15%;
+    top: 0;
+    display: block;
+    content: '';
+    width: 100%;
+    padding-top: 100%;
+    border-radius: 50%;
+    background-color: var(--first-brand-color);
+}
+.img-box::after {
+    position: absolute;
+    right: -19%;
+    top: -2%;
+    display: block;
+    content: '';
+    width: 110%;
+    padding-top: 110%;
+    border-radius: 50%;
+    background-color: var(--third-brand-color);
+    z-index: -1;
+} */
+ 
+@media screen and (min-width: 1024px) {
+  
+}
